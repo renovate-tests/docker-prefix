@@ -1,3 +1,4 @@
 {
-  "extends": ["seek"]
+  "extends": ["config:base"],
+  "branchPrefix": "renovate--"
 }
